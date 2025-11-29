@@ -6,15 +6,15 @@ Un estudiante de 19 años de **Ingeniería Informática** en INACAP. Actualmente
 
 ### 🚀 En qué estoy trabajando
 
-🛠️ Mi enfoque actual está en solidificar mis conocimientos de **backend** con **Python** y **Django**. Además, estoy aprendiendo a fondo el desarrollo de aplicaciones móviles multiplataforma usando **React Native con Expo**.
+🛠️ Mi enfoque actual es **solidificar mis bases** en **Python** y dominar el desarrollo **backend** con **Django**. Además, estoy explorando el mundo móvil aprendiendo **React Native con Expo**.
 
 ### 💡 Proyectos Destacados
 
-* **AstroCast** (Inicialmente MyClimy): Mi proyecto personal de **backend** desarrollado con **Django**. Es un ejemplo de mi trabajo en la creación de APIs y gestión de datos.
+* **AstroCast** (Inicialmente MyClimy): Mi proyecto personal de **backend** desarrollado con **Django**. Es un ejemplo de mi trabajo inicial en la creación de APIs y gestión de datos.
 
-### 🛠️ Mi Caja de Herramientas
+### 📚 Mi Camino de Aprendizaje
 
-Aquí están las tecnologías con las que trabajo:
+Estas son las tecnologías que estoy estudiando y con las que estoy construyendo mis primeros proyectos:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge" />
@@ -24,6 +24,9 @@ Aquí están las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
 </p>
 <br>
+
+> *El "inevitable" JavaScript... lo sé, es terrible, pero es necesario 😅*
+
 ---
 
 ### 🌱 Conectemos
