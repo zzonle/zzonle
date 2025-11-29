@@ -8,7 +8,6 @@ Un estudiante de 19 años de **Ingeniería Informática** en INACAP. Actualmente
 
 🛠️ Mi enfoque actual es **solidificar mis bases** en **Python** y dominar el desarrollo **backend** con **Django**. Además, estoy explorando el mundo móvil aprendiendo **React Native con Expo**.
 
----
 
 ### 📚 Mi Camino de Aprendizaje
 
@@ -25,8 +24,20 @@ Estas son las tecnologías que estoy estudiando y con las que estoy construyendo
 
 ---
 
+### 📈 Mi Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+</p>
+
+---
+
 ### 🌱 Conectemos
 
 Siempre abierto a aprender y a hablar sobre tecnología.
+
+**Correo Electrónico:** bastian.ojeda.maldonado@gmail.com
 
 > **"Construyendo el núcleo invisible que hace que todo funcione."**
