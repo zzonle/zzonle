@@ -8,9 +8,7 @@ Un estudiante de 19 años de **Ingeniería Informática** en INACAP. Actualmente
 
 🛠️ Mi enfoque actual es **solidificar mis bases** en **Python** y dominar el desarrollo **backend** con **Django**. Además, estoy explorando el mundo móvil aprendiendo **React Native con Expo**.
 
-### 💡 Proyectos Destacados
-
-* **AstroCast** (Inicialmente MyClimy): Mi proyecto personal de **backend** desarrollado con **Django**. Es un ejemplo de mi trabajo inicial en la creación de APIs y gestión de datos.
+---
 
 ### 📚 Mi Camino de Aprendizaje
 
@@ -25,14 +23,10 @@ Estas son las tecnologías que estoy estudiando y con las que estoy construyendo
 </p>
 <br>
 
-> *El "inevitable" JavaScript... lo sé, es terrible, pero es necesario 😅*
-
 ---
 
 ### 🌱 Conectemos
 
 Siempre abierto a aprender y a hablar sobre tecnología.
-
-**Correo Electrónico:** bastian.ojeda.maldonado@gmail.com
 
 > **"Construyendo el núcleo invisible que hace que todo funcione."**
