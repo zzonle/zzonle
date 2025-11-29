@@ -8,6 +8,7 @@ Un estudiante de 19 años de **Ingeniería Informática** en INACAP. Actualmente
 
 🛠️ Mi enfoque actual es **solidificar mis bases** en **Python** y dominar el desarrollo **backend** con **Django**. Además, estoy explorando el mundo móvil aprendiendo **React Native con Expo**.
 
+
 ### 📚 Mi Camino de Aprendizaje
 
 Estas son las tecnologías que estoy estudiando y con las que estoy construyendo mis primeros proyectos:
