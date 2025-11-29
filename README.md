@@ -27,9 +27,9 @@ Estas son las tecnologías que estoy estudiando y con las que estoy construyendo
 ### 📈 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzonle&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzonle&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
 </p>
 
 ---
